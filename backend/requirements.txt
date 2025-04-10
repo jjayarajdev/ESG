@@ -1,0 +1,23 @@
+# Web framework
+fastapi
+uvicorn
+
+# File parsing
+pdfplumber
+python-docx
+pandas
+openpyxl
+numpy
+
+# LLM and embeddings
+openai
+tiktoken
+
+# Vector database
+chromadb
+
+# Async I/O
+httpx
+
+# Misc utilities
+python-multipart  # required for file uploads in FastAPI
